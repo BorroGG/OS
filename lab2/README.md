@@ -4,7 +4,7 @@
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/1.png)
 Настроенный RAID.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/4.png)
-Настроили LVM.
+Настроили LVM.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/6.png)
 Информация о дисках после выполнения Задания 1.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/8.png)
