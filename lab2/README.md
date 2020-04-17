@@ -19,7 +19,7 @@
 Информация о дисках после выполнения 5 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/27.png)
 Информация о дисках после выполнения 6 пункта.
-![](https://github.com/BorroGG/OS/blob/master/lab2/screens/32.png)
+![](https://github.com/BorroGG/OS/blob/master/lab2/screens/32.png)
 Выполнили пункт 7.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/35.png)
 Информация о дисках после выполнения 12 пункта.
