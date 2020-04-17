@@ -20,11 +20,11 @@
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/27.png)
 Информация о дисках после выполнения 6 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/32.png)
-rВыполнили пункт 7.
+Выполнили пункт 7.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/35.png)
-rИнформация о дисках после выполнения 12 пункта.
+Информация о дисках после выполнения 12 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/40.png)
-rИнформация о дисках после выполения 13 пункта.
+Информация о дисках после выполения 13 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/41.png)
 Информация о дисках после выполнения 14 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/43.png)
