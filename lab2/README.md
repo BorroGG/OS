@@ -16,7 +16,7 @@
  ## Задание 3
 После отказа диска.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/17.png)
-Информация о дисках после выполнения 5 пункта
+Информация о дисках после выполнения 5 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/27.png)
 Информация о дисках после выполнения 6 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/32.png)
