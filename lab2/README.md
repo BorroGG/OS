@@ -11,7 +11,7 @@
  ## Задание 2
  После отказа одно из дисков.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/10.png)
- Информация о дисках после выполнения Задания 2.
+ Информация о дисках после выполнения Задания 2.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/16.png)
  ## Задание 3
  После отказа диска.
