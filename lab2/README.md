@@ -18,22 +18,22 @@
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/17.png)
 Информация о дисках после выполнения 5 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/27.png)
-Информация о дисках после выполнения 6 пункта.
+Информация о дисках после выполнения 6 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/32.png)
-Выполнили пункт 7
+rВыполнили пункт 7.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/35.png)
-Информация о дисках после выполнения 12 пункта.
+rИнформация о дисках после выполнения 12 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/40.png)
-Информация о дисках после выполения 13 пункта.
+rИнформация о дисках после выполения 13 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/41.png)
-Информация о дисках после выполнения 14 пункта.
+Информация о дисках после выполнения 14 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/43.png)
-Выполненный пункт 18.
+Выполненный пункт 18.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/46.png)
-Информация о дисках после выполнения 19 пункта.
+Информация о дисках после выполнения 19 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/49.png)
-Информация о дисках после выполнения 20 пункта
+Информация о дисках после выполнения 20 пункта.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/54.png)
-Информация о дисках после перезагрузки.
+Информация о дисках после перезагрузки.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/57.png)
-Все остальные скриншоты каждого действия находятся в папке screens
+Все остальные скриншоты каждого действия находятся в папке screens.
