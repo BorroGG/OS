@@ -2,12 +2,17 @@
  ## Задание 1
  ##### Установка Linux и выбор жестких дисков.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/1.png)
-Настроенный RAID.
+ ##### Настроили RAID.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/4.png)
-Настроили LVM.
+ ##### Настроили LVM.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/6.png)
-Информация о дисках после выполнения Задания 1.
+ ##### Разметили и выбрали соответствующие точки монтирования.
+![](https://github.com/BorroGG/OS/blob/master/lab2/screens/7.png)
+ #####  Информация о дисках после копирования /boot с sda на sdb и установки grub. Команда lsblk показала нам 2 диска на 8G и сопутствующую информацию.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/8.png)
+ ##### Информация о текущем RAID с помощью команды cat /proc/mdstat. Здесь мы увидели активный RAID1 на sda2 и sdb2.
+ ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/9.png) 
+ ##### После выполнения задания 1 у нас появилась виртуальная машина с дисками ssd1, ssd2, а также настроенный RAID и LVM.
  ## Задание 2
  После отказа одно из дисков.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/10.png)
