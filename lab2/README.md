@@ -14,10 +14,13 @@
  ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/9.png) 
  ##### После выполнения задания 1 у нас появилась виртуальная машина с дисками ssd1, ssd2, а также настроенный RAID и LVM.
  ## Задание 2
- После отказа одно из дисков.
+ ##### Состояние RAID-массива после отказа одного из дисков.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/10.png)
- Информация о дисках после выполнения Задания 2.
+ ##### Состояние RAID после копирования таблицы разделов на новый диск и его добавления в RAID-массив.
+ ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/14.png)
+ ##### Состояние RAID-массива и дисков после синхронизации разделов, установки grub и перезагрузки.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/16.png)
+ ##### После выполнения задания 2, у нас был удален диск ssd1, сохранен диск ssd2, добавлен диск ssd3. SSD3 был добавлен в RAID-массив и синхронизирован.
  ## Задание 3
 После отказа диска.
 ![](https://github.com/BorroGG/OS/blob/master/lab2/screens/17.png)
